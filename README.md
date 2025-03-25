@@ -16,9 +16,18 @@
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [3430-count-days-without-meetings](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/3430-count-days-without-meetings) |
 ## Sorting
 |  |
 | ------- |
 | [3430-count-days-without-meetings](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/3430-count-days-without-meetings) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
