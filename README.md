@@ -19,10 +19,12 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [2681-put-marbles-in-bags](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/2681-put-marbles-in-bags) |
 | [3430-count-days-without-meetings](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/3430-count-days-without-meetings) |
 ## Sorting
 |  |
 | ------- |
+| [2681-put-marbles-in-bags](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/2681-put-marbles-in-bags) |
 | [3430-count-days-without-meetings](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/3430-count-days-without-meetings) |
 ## Binary Search
 |  |
@@ -40,4 +42,9 @@
 |  |
 | ------- |
 | [0768-partition-labels](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/0768-partition-labels) |
+| [2681-put-marbles-in-bags](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/2681-put-marbles-in-bags) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2681-put-marbles-in-bags](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/2681-put-marbles-in-bags) |
 <!---LeetCode Topics End-->
