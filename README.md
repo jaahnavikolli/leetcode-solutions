@@ -21,6 +21,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [2262-solving-questions-with-brainpower](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/2262-solving-questions-with-brainpower) |
 | [2681-put-marbles-in-bags](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/2681-put-marbles-in-bags) |
+| [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3430-count-days-without-meetings](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/3430-count-days-without-meetings) |
 ## Sorting
 |  |
