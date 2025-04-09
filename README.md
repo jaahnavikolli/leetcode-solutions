@@ -7,6 +7,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0768-partition-labels](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/0768-partition-labels) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## String
 |  |
@@ -29,6 +30,7 @@
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3430-count-days-without-meetings](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/3430-count-days-without-meetings) |
+| [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Sorting
 |  |
