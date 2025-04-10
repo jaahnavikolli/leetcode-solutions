@@ -14,6 +14,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0768-partition-labels](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/0768-partition-labels) |
+| [3243-count-the-number-of-powerful-integers](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/3243-count-the-number-of-powerful-integers) |
 ## Sliding Window
 |  |
 | ------- |
@@ -65,6 +66,7 @@
 | [0368-largest-divisible-subset](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [2262-solving-questions-with-brainpower](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/2262-solving-questions-with-brainpower) |
+| [3243-count-the-number-of-powerful-integers](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/3243-count-the-number-of-powerful-integers) |
 ## Tree
 |  |
 | ------- |
@@ -86,6 +88,7 @@
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/0368-largest-divisible-subset) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [3243-count-the-number-of-powerful-integers](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/3243-count-the-number-of-powerful-integers) |
 ## Backtracking
 |  |
 | ------- |
