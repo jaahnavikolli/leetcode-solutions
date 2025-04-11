@@ -88,6 +88,7 @@
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/0368-largest-divisible-subset) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2998-count-symmetric-integers](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/2998-count-symmetric-integers) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/3243-count-the-number-of-powerful-integers) |
 ## Backtracking
 |  |
@@ -105,4 +106,5 @@
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2998-count-symmetric-integers](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/2998-count-symmetric-integers) |
 <!---LeetCode Topics End-->
