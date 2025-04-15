@@ -29,6 +29,7 @@
 | [1656-count-good-triplets](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2262-solving-questions-with-brainpower](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/2262-solving-questions-with-brainpower) |
+| [2280-count-good-triplets-in-an-array](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/2280-count-good-triplets-in-an-array) |
 | [2681-put-marbles-in-bags](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/2681-put-marbles-in-bags) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
@@ -45,10 +46,12 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [2280-count-good-triplets-in-an-array](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/2280-count-good-triplets-in-an-array) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [2280-count-good-triplets-in-an-array](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/2280-count-good-triplets-in-an-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -118,4 +121,20 @@
 |  |
 | ------- |
 | [2050-count-good-numbers](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/2050-count-good-numbers) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/2280-count-good-triplets-in-an-array) |
+## Segment Tree
+|  |
+| ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/2280-count-good-triplets-in-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/2280-count-good-triplets-in-an-array) |
+## Ordered Set
+|  |
+| ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/2280-count-good-triplets-in-an-array) |
 <!---LeetCode Topics End-->
