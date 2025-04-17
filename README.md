@@ -31,6 +31,7 @@
 | [1656-count-good-triplets](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2262-solving-questions-with-brainpower](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/2262-solving-questions-with-brainpower) |
+| [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2280-count-good-triplets-in-an-array](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/2280-count-good-triplets-in-an-array) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2681-put-marbles-in-bags](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/2681-put-marbles-in-bags) |
