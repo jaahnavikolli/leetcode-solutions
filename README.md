@@ -15,6 +15,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0038-count-and-say](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/0038-count-and-say) |
 | [0768-partition-labels](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/0768-partition-labels) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/3243-count-the-number-of-powerful-integers) |
 ## Sliding Window
