@@ -6,6 +6,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0768-partition-labels](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/0768-partition-labels) |
+| [0797-rabbits-in-forest](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/0797-rabbits-in-forest) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/2626-count-the-number-of-good-subarrays) |
 | [3548-find-the-count-of-good-integers](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/3548-find-the-count-of-good-integers) |
@@ -29,6 +30,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0368-largest-divisible-subset](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
+| [0797-rabbits-in-forest](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/0797-rabbits-in-forest) |
 | [1656-count-good-triplets](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2262-solving-questions-with-brainpower](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/2262-solving-questions-with-brainpower) |
@@ -69,6 +71,7 @@
 |  |
 | ------- |
 | [0768-partition-labels](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/0768-partition-labels) |
+| [0797-rabbits-in-forest](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/0797-rabbits-in-forest) |
 | [2681-put-marbles-in-bags](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/2681-put-marbles-in-bags) |
 ## Heap (Priority Queue)
 |  |
@@ -101,6 +104,7 @@
 |  |
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/0368-largest-divisible-subset) |
+| [0797-rabbits-in-forest](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/0797-rabbits-in-forest) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2050-count-good-numbers](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/2050-count-good-numbers) |
 | [2998-count-symmetric-integers](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/2998-count-symmetric-integers) |
