@@ -21,6 +21,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0038-count-and-say](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/0038-count-and-say) |
 | [0768-partition-labels](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/0768-partition-labels) |
+| [0868-push-dominoes](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/0868-push-dominoes) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/3243-count-the-number-of-powerful-integers) |
 ## Sliding Window
 |  |
@@ -85,6 +86,7 @@
 |  |
 | ------- |
 | [0768-partition-labels](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/0768-partition-labels) |
+| [0868-push-dominoes](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/0868-push-dominoes) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Greedy
 |  |
@@ -102,6 +104,7 @@
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
+| [0868-push-dominoes](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/0868-push-dominoes) |
 | [2262-solving-questions-with-brainpower](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/2262-solving-questions-with-brainpower) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/3243-count-the-number-of-powerful-integers) |
