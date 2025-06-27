@@ -35,6 +35,7 @@
 | [0768-partition-labels](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/0868-push-dominoes) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/1058-lexicographically-smallest-equivalent-string) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
@@ -165,6 +166,7 @@
 | [0797-rabbits-in-forest](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/0797-rabbits-in-forest) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
@@ -261,6 +263,7 @@
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/2140-longest-subsequence-repeated-k-times) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -280,6 +283,7 @@
 | ------- |
 | [1656-count-good-triplets](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2215-finding-3-digit-even-numbers](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/2215-finding-3-digit-even-numbers) |
 | [2998-count-symmetric-integers](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/2998-count-symmetric-integers) |
@@ -335,6 +339,7 @@
 | ------- |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/3629-total-characters-in-string-after-transformations-i) |
