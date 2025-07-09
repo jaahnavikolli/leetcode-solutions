@@ -69,6 +69,7 @@
 | [2626-count-the-number-of-good-subarrays](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
+| [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Array
 |  |
@@ -132,6 +133,7 @@
 | [3647-zero-array-transformation-iii](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/3647-zero-array-transformation-iii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
+| [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Sorting
 |  |
 | ------- |
@@ -205,6 +207,7 @@
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3647-zero-array-transformation-iii](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/3647-zero-array-transformation-iii) |
+| [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
