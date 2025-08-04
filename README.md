@@ -9,6 +9,7 @@
 | [0594-longest-harmonious-subsequence](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0768-partition-labels](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/0797-rabbits-in-forest) |
+| [0940-fruit-into-baskets](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/0940-fruit-into-baskets) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1500-count-largest-group](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/1500-count-largest-group) |
@@ -72,6 +73,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0594-longest-harmonious-subsequence](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
+| [0940-fruit-into-baskets](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/0940-fruit-into-baskets) |
 | [1813-maximum-erasure-value](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/1813-maximum-erasure-value) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/2394-count-subarrays-with-score-less-than-k) |
@@ -95,6 +97,7 @@
 | [0594-longest-harmonious-subsequence](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0797-rabbits-in-forest](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/0797-rabbits-in-forest) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/0934-bitwise-ors-of-subarrays) |
+| [0940-fruit-into-baskets](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/0940-fruit-into-baskets) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1293-three-consecutive-odds](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/1293-three-consecutive-odds) |
