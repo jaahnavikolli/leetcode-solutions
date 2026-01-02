@@ -11,6 +11,7 @@
 | [0797-rabbits-in-forest](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/0797-rabbits-in-forest) |
 | [0900-reordered-power-of-2](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/0940-fruit-into-baskets) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1500-count-largest-group](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/1500-count-largest-group) |
@@ -104,6 +105,7 @@
 | [0797-rabbits-in-forest](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/0797-rabbits-in-forest) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/0940-fruit-into-baskets) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1293-three-consecutive-odds](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/1293-three-consecutive-odds) |
