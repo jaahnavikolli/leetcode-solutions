@@ -109,6 +109,7 @@
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1266-minimum-time-visiting-all-points](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/1266-minimum-time-visiting-all-points) |
 | [1293-three-consecutive-odds](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/1293-three-consecutive-odds) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1390-four-divisors](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/1390-four-divisors) |
@@ -378,6 +379,7 @@
 | [0826-soup-servings](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/0900-reordered-power-of-2) |
+| [1266-minimum-time-visiting-all-points](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/1390-four-divisors) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -626,6 +628,7 @@
 ## Geometry
 |  |
 | ------- |
+| [1266-minimum-time-visiting-all-points](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/1266-minimum-time-visiting-all-points) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 <!---LeetCode Topics End-->
