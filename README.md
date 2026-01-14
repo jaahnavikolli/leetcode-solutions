@@ -176,6 +176,7 @@
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/3321-type-of-triangle) |
 | [3430-count-days-without-meetings](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/3430-count-days-without-meetings) |
+| [3454-separate-squares-ii](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/3454-separate-squares-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
@@ -236,6 +237,7 @@
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+| [3454-separate-squares-ii](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/3454-separate-squares-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/3791-fruits-into-baskets-iii) |
 ## Divide and Conquer
@@ -478,6 +480,7 @@
 |  |
 | ------- |
 | [2280-count-good-triplets-in-an-array](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/2280-count-good-triplets-in-an-array) |
+| [3454-separate-squares-ii](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/3454-separate-squares-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/3791-fruits-into-baskets-iii) |
 ## Merge Sort
@@ -631,4 +634,8 @@
 | [1266-minimum-time-visiting-all-points](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/1266-minimum-time-visiting-all-points) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+## Line Sweep
+|  |
+| ------- |
+| [3454-separate-squares-ii](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/3454-separate-squares-ii) |
 <!---LeetCode Topics End-->
