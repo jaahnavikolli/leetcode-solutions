@@ -162,6 +162,7 @@
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2915-count-of-interesting-subarrays](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/2915-count-of-interesting-subarrays) |
+| [2943-maximize-area-of-square-hole-in-grid](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
@@ -214,6 +215,7 @@
 | [2681-put-marbles-in-bags](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/2681-put-marbles-in-bags) |
 | [2689-rearranging-fruits](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/2689-rearranging-fruits) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/2699-count-the-number-of-fair-pairs) |
+| [2943-maximize-area-of-square-hole-in-grid](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
