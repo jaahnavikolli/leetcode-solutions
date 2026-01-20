@@ -179,6 +179,7 @@
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3314-construct-the-minimum-bitwise-array-i](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3321-type-of-triangle](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/3321-type-of-triangle) |
 | [3430-count-days-without-meetings](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/3430-count-days-without-meetings) |
 | [3454-separate-squares-ii](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/3454-separate-squares-ii) |
@@ -440,6 +441,7 @@
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2529-range-product-queries-of-powers](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/2529-range-product-queries-of-powers) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3314-construct-the-minimum-bitwise-array-i](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
