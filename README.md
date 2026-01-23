@@ -32,6 +32,7 @@
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3548-find-the-count-of-good-integers](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/3548-find-the-count-of-good-integers) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -186,6 +187,7 @@
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
@@ -304,6 +306,7 @@
 | [2479-meeting-rooms-iii](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/2479-meeting-rooms-iii) |
 | [2681-put-marbles-in-bags](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/2681-put-marbles-in-bags) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/3647-zero-array-transformation-iii) |
@@ -501,6 +504,7 @@
 |  |
 | ------- |
 | [2280-count-good-triplets-in-an-array](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/2280-count-good-triplets-in-an-array) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/3791-fruits-into-baskets-iii) |
 ## Prefix Sum
@@ -553,6 +557,7 @@
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2479-meeting-rooms-iii](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/2479-meeting-rooms-iii) |
 | [3336-water-bottles-ii](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/3336-water-bottles-ii) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/3790-fruits-into-baskets-ii) |
 ## Graph
@@ -622,6 +627,7 @@
 |  |
 | ------- |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Hash Function
 |  |
 | ------- |
@@ -651,4 +657,8 @@
 |  |
 | ------- |
 | [3454-separate-squares-ii](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/3454-separate-squares-ii) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 <!---LeetCode Topics End-->
