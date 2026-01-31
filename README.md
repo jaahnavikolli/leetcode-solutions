@@ -107,6 +107,7 @@
 | [0498-diagonal-traverse](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/0498-diagonal-traverse) |
 | [0594-longest-harmonious-subsequence](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0679-24-game](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/0679-24-game) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0797-rabbits-in-forest](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/0797-rabbits-in-forest) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/0940-fruit-into-baskets) |
@@ -246,6 +247,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
