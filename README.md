@@ -30,6 +30,7 @@
 | [2856-count-complete-subarrays-in-an-array](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2915-count-of-interesting-subarrays](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/2915-count-of-interesting-subarrays) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
@@ -90,6 +91,7 @@
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/2856-count-complete-subarrays-in-an-array) |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
@@ -174,6 +176,7 @@
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/2976-minimum-cost-to-convert-string-i) |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -319,6 +322,7 @@
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2479-meeting-rooms-iii](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/2479-meeting-rooms-iii) |
 | [2681-put-marbles-in-bags](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/2681-put-marbles-in-bags) |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
