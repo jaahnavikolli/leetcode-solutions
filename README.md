@@ -48,6 +48,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0038-count-and-say](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/0038-count-and-say) |
+| [0761-special-binary-string](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/0761-special-binary-string) |
 | [0768-partition-labels](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/0868-push-dominoes) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/1058-lexicographically-smallest-equivalent-string) |
@@ -226,6 +227,7 @@
 | [0075-sort-colors](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0368-largest-divisible-subset](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/0368-largest-divisible-subset) |
 | [0594-longest-harmonious-subsequence](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
+| [0761-special-binary-string](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/0761-special-binary-string) |
 | [0900-reordered-power-of-2](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/0900-reordered-power-of-2) |
 | [1200-minimum-absolute-difference](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/1200-minimum-absolute-difference) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -274,6 +276,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0761-special-binary-string](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/0761-special-binary-string) |
 | [2280-count-good-triplets-in-an-array](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/2280-count-good-triplets-in-an-array) |
 | [3719-longest-balanced-subarray-i](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/3721-longest-balanced-subarray-ii) |
