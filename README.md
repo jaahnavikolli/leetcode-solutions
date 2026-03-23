@@ -48,6 +48,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0022-generate-parentheses](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/0038-count-and-say) |
 | [0761-special-binary-string](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/0761-special-binary-string) |
 | [0768-partition-labels](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/0768-partition-labels) |
@@ -349,6 +350,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0085-maximal-rectangle](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0198-house-robber](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/0198-house-robber) |
@@ -470,6 +472,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0679-24-game](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/0679-24-game) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
