@@ -6,6 +6,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
+| [0146-lru-cache](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/0146-lru-cache) |
 | [0594-longest-harmonious-subsequence](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0768-partition-labels](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/0797-rabbits-in-forest) |
@@ -670,10 +671,12 @@
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/0146-lru-cache) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/1995-finding-pairs-with-a-certain-sum) |
 ## Linked List
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/0146-lru-cache) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Hash Function
@@ -708,6 +711,7 @@
 ## Doubly-Linked List
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/0146-lru-cache) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Graph Theory
 |  |
