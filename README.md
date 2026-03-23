@@ -105,6 +105,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0056-merge-intervals](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0085-maximal-rectangle](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/0085-maximal-rectangle) |
@@ -228,6 +229,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0368-largest-divisible-subset](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/0368-largest-divisible-subset) |
 | [0594-longest-harmonious-subsequence](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
