@@ -133,6 +133,7 @@
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1628-count-submatrices-with-all-ones](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/1628-count-submatrices-with-all-ones) |
 | [1656-count-good-triplets](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/1656-count-good-triplets) |
@@ -356,6 +357,7 @@
 | [1402-count-square-submatrices-with-all-ones](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1628-count-submatrices-with-all-ones](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/1628-count-submatrices-with-all-ones) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/1986-largest-color-value-in-a-directed-graph) |
@@ -618,6 +620,7 @@
 | [0085-maximal-rectangle](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/0085-maximal-rectangle) |
 | [0498-diagonal-traverse](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/0498-diagonal-traverse) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1628-count-submatrices-with-all-ones](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/1628-count-submatrices-with-all-ones) |
 | [1895-largest-magic-square](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/1895-largest-magic-square) |
 | [1975-maximum-matrix-sum](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/1975-maximum-matrix-sum) |
