@@ -184,6 +184,7 @@
 | [2856-count-complete-subarrays-in-an-array](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2915-count-of-interesting-subarrays](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/2915-count-of-interesting-subarrays) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/2943-maximize-area-of-square-hole-in-grid) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
@@ -450,6 +451,7 @@
 | [2415-count-the-number-of-ideal-arrays](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/2704-maximum-difference-by-remapping-a-digit) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2998-count-symmetric-integers](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/2998-count-symmetric-integers) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/3172-divisible-and-non-divisible-sums-difference) |
@@ -609,6 +611,7 @@
 | [2048-build-array-from-permutation](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/2048-build-array-from-permutation) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2479-meeting-rooms-iii](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/2479-meeting-rooms-iii) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3336-water-bottles-ii](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/3336-water-bottles-ii) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -632,6 +635,7 @@
 | [1628-count-submatrices-with-all-ones](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/1628-count-submatrices-with-all-ones) |
 | [1895-largest-magic-square](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/1895-largest-magic-square) |
 | [1975-maximum-matrix-sum](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/1975-maximum-matrix-sum) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
