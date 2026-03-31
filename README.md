@@ -75,6 +75,7 @@
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3396-valid-word](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/3396-valid-word) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+| [3474-lexicographically-smallest-generated-string](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3617-find-the-original-typed-string-i](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/3617-find-the-original-typed-string-i) |
 | [3618-find-the-original-typed-string-ii](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/3618-find-the-original-typed-string-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -335,6 +336,7 @@
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+| [3474-lexicographically-smallest-generated-string](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3647-zero-array-transformation-iii](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/3647-zero-array-transformation-iii) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
@@ -738,4 +740,8 @@
 |  |
 | ------- |
 | [2573-find-the-string-with-lcp](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/2573-find-the-string-with-lcp) |
+## String Matching
+|  |
+| ------- |
+| [3474-lexicographically-smallest-generated-string](https://github.com/jaahnavikolli/leetcode-solutions/tree/master/3474-lexicographically-smallest-generated-string) |
 <!---LeetCode Topics End-->
